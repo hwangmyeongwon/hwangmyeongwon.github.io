@@ -13,46 +13,43 @@
 ```
 ----
 
-![img](screenshot.png)
+## 현재 하는 아르바이트
+- 버거킹(2020.10.13 ~ 현재까지 하는중)
+- 교내근로(2022.9.1 ~ 현재까지 하는중)
 
-Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by by raising an [issue](https://github.com/sproogen/modern-resume-theme/issues/new/choose), I'm always happy to help.
+## 학력
+- 한림대학교 (주)콘텐츠it전공 , (복)빅데이터전공 (2018~현재)
+- 군대 11사단 (2019~2020)
+- 부명고등학교 (2015~2017)
 
-I always enjoy seeing how people are using my creations and if you would like to say thanks feel free to [buy me a coffee (buymeacoffee.com/vJ6HfLu)](https://buymeacoff.ee/vJ6HfLu).
+## 대학교 재학중 했던 활동
+- 코멘토 직무프로그램(IT 8개 직무 기초체험으로 나에게 맞는 적성 찾고 기술역량 키우기)
+- 코멘토 직무프로그램(데이터 엔지니어의 모든 실무 유형과 취업전략)
 
-If you would like to see how I am using this then you can view my resume [here (jameswgrant.co.uk)](http://www.jameswgrant.co.uk/) and find the code [here (sproogen/jameswgrant)](https://github.com/sproogen/jameswgrant), hopefully this might help you.
+## 사용 기술
 
-You can view the project [roadmap here](https://github.com/sproogen/modern-resume-theme/projects/1).
+### Game
+- 언리얼 엔진
+- 유니티
 
-----
+### language
+- c 언어
+- 파이썬
+- 자바
+- c++
+- swift
 
-## Installation & setup guide
-This template is designed to be hosted using GitHub pages and so that's what these instructions will cover. If you plan on hosting it seperately then there might be some extra steps that we wont cover.
+### backend
+- docker
 
-Before starting it might be useful to familiarise yourself with [Jekyll](https://jekyllrb.com/docs/home/), [Markdown](https://www.markdownguide.org/getting-started) and [GitHub pages](https://pages.github.com/).
-
-### Step 1 - GitHub
-Start by creating an account on [GitHub](https://github.com/join)
-
-### Step 2 - Create Repository
-Create a repository on GitHub to hold your files and host your resume. You can find out how to do that [here](https://pages.github.com/)
-
-### Step 3 - Download Resume Template
-Download and extract the following zip into the git repository you have just created. [resume-template.zip](https://github.com/sproogen/modern-resume-theme/archive/gh-pages.zip)
-
-### Step 4 - Push it
-Commit and push the resume template to github
-```
-$ git add --all
-$ git commit -m "Initial resume setup"
-$ git push -u origin master
-```
-### Step 5 - See it
-You should now be able to see the demo resume template using this theme at `[your-username].github.io`
+### database
+- mysql
 
 ----
 
-## Usage
+## 프로젝트 이력
 
+-유니티
 So now you will be able to see the demo template at your github URL. You can can edit the yml files and replace the demo content with your own. Hopefully it will be fairly simple to work out where all the content goes, but here is a quick overview.
 
 ### `_config.yml`
