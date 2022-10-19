@@ -1,19 +1,16 @@
-# modern-resume-theme [![Gem Version](https://badge.fury.io/rb/modern-resume-theme.svg)](https://badge.fury.io/rb/modern-resume-theme) ![CI workflow](https://github.com/sproogen/modern-resume-theme/workflows/CI%20workflow/badge.svg?branch=master)
 
-*A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.*  
-*Host your own resume on GitHub for **free!***
 
-[View Demo](https://sproogen.github.io/modern-resume-theme/)
+## 소개
 
-----
-
-## Announcements
-
- - **Nov 2020** - Content configuration version 2 released. Added a new more configurable way of adding data to the resume. Add as many content sections as you like in what ever order you want. Currently just *text* and *list* but future categories coming soon.
-Full backwards compatibilty with version 1 remains and the documentation for version 1 can be found [here (Version 1 Readme)](https://github.com/sproogen/modern-resume-theme/blob/1.x/README.md).
-
- - **Dec 2019** - Now includes **Dark Mode**
-
+ - 이름:황명원
+ - 군필:11사단 병장 만기전역
+ - 취미:운동,노래듣기
+ - email:auddnjs0815@gmail.com
+ - github:https://github.com/hwangmyeongwon/hwangmyeongwon.github.io
+ 
+```
+항상 주어진 일에 최선을 다하는 것입니다.
+```
 ----
 
 ![img](screenshot.png)
