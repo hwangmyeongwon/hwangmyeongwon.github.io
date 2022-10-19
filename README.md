@@ -38,6 +38,7 @@
 - 자바
 - c++
 - swift
+- html,css,javascript + webgl
 
 ### backend
 - docker
@@ -49,12 +50,14 @@
 
 ## 프로젝트 이력
 
--유니티
-So now you will be able to see the demo template at your github URL. You can can edit the yml files and replace the demo content with your own. Hopefully it will be fairly simple to work out where all the content goes, but here is a quick overview.
+### 유니티
+<img src='./images/ZombieSurvival.png' width="150" />
 
-### `_config.yml`
-This will contain all the of the main configuration for your resume such as your name, email, social media links and about me content. It also contains all the content for your resume.  
-A full example of the _config.yml can be found [here](https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml)
+- 소개:좀비를 무찌르고 끝까지 살아남는 게임
+- 기말 프로젝트 발표
+
+### 컴퓨터 그래픽스(Webgl)
+
 
 #### Content
 The main content for you resume will all come under the content property in the `_config.yml` file. This can be quite complex and a good understanding on [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) will be helpful here.
