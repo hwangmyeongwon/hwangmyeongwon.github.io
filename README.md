@@ -24,25 +24,74 @@
 - 코멘토 직무프로그램(IT 8개 직무 기초체험으로 나에게 맞는 적성 찾고 기술역량 키우기)
 - 코멘토 직무프로그램(데이터 엔지니어의 모든 실무 유형과 취업전략)
 
+## 2018 수강 과목 (전공&복수전공)
+|번호|과목명|
+|:---:|:---:|
+|1|기초프로그래밍|
+|2|컴퓨팅사고와 문제해결|
+|3|자바 프로그래밍1|
+|4|임베디드시스템|
+|5|C프로그래밍|
+
+## 2021 수강 과목 (전공&복수전공)
+|번호|과목명|
+|:---:|:---:|
+|1|c++ 프로그래밍|
+|2|파이썬 과학프로그래밍 기초|
+|3|자바 프로그래밍2|
+|4|자료구조|
+|5|논리설계및 실험|
+|6|소프트웨어 개론|
+|7|알고리즘|
+|8|VR/AR/게임제작기초|
+|9|컴퓨터구조|
+|10|선형대수|
+|11|인공지능 수학|
+|12|데이터베이스 기초|
+
+
+## 2022 수강 과목 (전공&복수전공)
+|번호|과목명|
+|:---:|:---:|
+|1|웹프로그래밍|
+|2|인공지능|
+|3|컴퓨터 그래픽스|
+|4|운영체제|
+|5|윈도우 프로그래밍|
+|6|데이터베이스 시스템|
+|7|게임 프로그래밍|
+|8|오픈소스SW개발도구 활용|
+
 ## 사용 기술
 
 ### Game
-- 언리얼 엔진
-- 유니티
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### language
-- c 언어
-- python
-- java
-- c++
-- swift
-- html,css,javascript + webgl
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+
 
 ### backend
-- docker
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### database
-- mysql
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### embedded system
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+### server
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
 ## 프로젝트 이력
