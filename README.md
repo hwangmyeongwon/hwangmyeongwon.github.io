@@ -13,7 +13,7 @@
 
 ## 현재 하는 아르바이트
 - 버거킹(2020.10.13 ~ 현재까지 하는중)
-- 교내근로(2022.9.1 ~ 현재까지 하는중)
+- 교내근로(2022.9.1 ~ 2022.12.15)
 
 ## 학력
 - 한림대학교 (주)콘텐츠it전공 , (복)빅데이터전공 (2018~현재)
@@ -61,14 +61,6 @@
 |6|데이터베이스 시스템|
 |7|게임 프로그래밍|
 |8|오픈소스SW개발도구 활용|
-
-## 사용중인 OS
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ## 사용 기술
 
