@@ -5,7 +5,6 @@
  - 군필:11사단 병장 만기전역
  - 취미:운동,노래듣기
  - email:auddnjs0815@gmail.com
- - github:https://github.com/hwangmyeongwon/hwangmyeongwon.github.io
  
 ```
 항상 주어진 일에 최선을 다하는 것입니다.
@@ -112,6 +111,7 @@
 - 내용:런치패드를 컴퓨터 안에서 사용해 볼수 있다는 생각으로 만들어본 프로젝트입니다.
 - 기말 프로젝트 발표
 - 인기투표 1등
+- (자세한 내용) https://github.com/hwangmyeongwon/computer_grapic_project
 
 ### 게임 프로그래밍(Unreal engine)
 <img src='./images/EscapeRoom.png' width="150"/>
@@ -120,6 +120,7 @@
 - 내용: 다양한 무서운 이벤트를 보고 엔딩까지 가기 위해 다음 문을 열 오브젝트 들을 찾는 게임 입니다.
 - 기말 프로젝트 발표
 - 인기투표 3등
+- (자세한 내용) https://github.com/hwangmyeongwon/unreal_engine_project
 
 ### 오픈소스
 - 소개: 많은 사람들이 본인만의 포트폴리오 사이트를 가지게 하는 사이트입니다.
