@@ -39,7 +39,7 @@
 |6|소프트웨어 개론|
 |7|알고리즘|
 |8|VR/AR/게임제작기초|
-|9|컴퓨터구조|
+|9|[컴퓨터구조](https://github.com/hwangmyeongwon/ComputerArchitecture_assignment)|
 |10|선형대수|
 |11|[인공지능 수학](https://github.com/hwangmyeongwon/AI_Math_assignment)|
 |12|데이터베이스 기초|
