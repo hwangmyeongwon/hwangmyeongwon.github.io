@@ -99,13 +99,13 @@
 - 내용:불이 들어오는 만큼 보일러는 틀었다는 것을 표현하고 보일러가 너무 높을경우 불을 깜박이며 화재 위험이 있다는 것을 알려줍니다.
 
 ### 유니티
-<img src='./images/ZombieSurvival.png' width="150" />
+<img src='./images/ZombieSurvival.png' width="300" />
 
 - 소개:좀비를 무찌르고 끝까지 살아남는 게임
 - 기말 프로젝트 발표
 
 ### 컴퓨터 그래픽스(Webgl)
-<img src='./images/LunchPad.png' width="150" />
+<img src='./images/LunchPad.png' width="300" />
 
 - 소개:웹 페이지에 런치패드를 3d물체로 만들기
 - 내용:런치패드를 컴퓨터 안에서 사용해 볼수 있다는 생각으로 만들어본 프로젝트입니다.
@@ -114,7 +114,7 @@
 - (자세한 내용) https://github.com/hwangmyeongwon/computer_grapic_project
 
 ### 게임 프로그래밍(Unreal engine)
-<img src='./images/EscapeRoom.png' width="150"/>
+<img src='./images/EscapeRoom.png' width="300"/>
 
 - 소개: 무서운 이벤트를 보면서 해결책을 찾고 방을 탈출하는 게임
 - 내용: 다양한 무서운 이벤트를 보고 엔딩까지 가기 위해 다음 문을 열 오브젝트 들을 찾는 게임 입니다.
