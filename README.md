@@ -31,7 +31,7 @@
 ## 2021 수강 과목 (전공&복수전공)
 |번호|과목명|
 |:---:|:---:|
-|1|c++ 프로그래밍|
+|1|[c++ 프로그래밍](https://github.com/hwangmyeongwon/Cpp_assignment)|
 |2|파이썬 과학프로그래밍 기초|
 |3|[자바 프로그래밍2](https://github.com/hwangmyeongwon/java2_assignment)|
 |4|자료구조|
@@ -48,14 +48,14 @@
 ## 2022 수강 과목 (전공&복수전공)
 |번호|과목명|
 |:---:|:---:|
-|1|웹프로그래밍|
-|2|인공지능|
-|3|컴퓨터 그래픽스|
-|4|운영체제|
-|5|윈도우 프로그래밍|
+|1|[웹프로그래밍](https://github.com/hwangmyeongwon/WebProgramming_assignment)|
+|2|[인공지능](https://github.com/hwangmyeongwon/AI_assignment)|
+|3|[컴퓨터 그래픽스](https://github.com/hwangmyeongwon/ComputerGrapics_assignment)|
+|4|[운영체제](https://github.com/hwangmyeongwon/OperatingSystem_assignment)|
+|5|[윈도우 프로그래밍](https://github.com/hwangmyeongwon/WindowProgramming_assignment)|
 |6|데이터베이스 시스템|
-|7|게임 프로그래밍|
-|8|오픈소스SW개발도구 활용|
+|7|[게임 프로그래밍](https://github.com/hwangmyeongwon/UnrealEngine_assignment)|
+|8|[오픈소스SW개발도구 활용](https://github.com/hwangmyeongwon/UseOfOpenSourceDevelopmentTools_assignment)|
 
 ## 사용 기술
 
