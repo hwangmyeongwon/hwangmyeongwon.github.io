@@ -57,7 +57,7 @@
 |7|[게임 프로그래밍](https://github.com/hwangmyeongwon/UnrealEngine_assignment)|
 |8|[오픈소스SW개발도구 활용](https://github.com/hwangmyeongwon/UseOfOpenSourceDevelopmentTools_assignment)|
 
-## 사용 기술
+## 사용해본 기술
 
 ### Game
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
