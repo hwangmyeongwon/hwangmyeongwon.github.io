@@ -34,10 +34,10 @@
 |1|[c++ 프로그래밍](https://github.com/hwangmyeongwon/Cpp_assignment)|
 |2|파이썬 과학프로그래밍 기초|
 |3|[자바 프로그래밍2](https://github.com/hwangmyeongwon/java2_assignment)|
-|4|자료구조|
+|4|[자료구조](https://github.com/hwangmyeongwon/DataStructure_assignment)|
 |5|논리설계및 실험|
 |6|소프트웨어 개론|
-|7|알고리즘|
+|7|[알고리즘](https://github.com/hwangmyeongwon/algorithm_assignment)|
 |8|VR/AR/게임제작기초|
 |9|[컴퓨터구조](https://github.com/hwangmyeongwon/ComputerArchitecture_assignment)|
 |10|선형대수|
