@@ -61,6 +61,17 @@
 |7|[게임 프로그래밍](https://github.com/hwangmyeongwon/UnrealEngine_assignment)|
 |8|[오픈소스SW개발도구 활용](https://github.com/hwangmyeongwon/UseOfOpenSourceDevelopmentTools_assignment)|
 
+## 2023 수강 과목 (전공&복수전공)
+파란글씨를 클릭할 시 해왔던 과제들을 볼 수 있습니다.
+
+|번호|과목명|
+|:---:|:---:|
+|1|컴퓨터 네트워크|
+|2|이산구조론|
+|3|데이터 사이언스 기초|
+|4|소프트웨어 세미나3|
+|5|소프트웨어 세미나4|
+
 ## 사용해본 기술
 
 ### Game
