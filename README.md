@@ -62,7 +62,6 @@
 |8|[오픈소스SW개발도구 활용](https://github.com/hwangmyeongwon/UseOfOpenSourceDevelopmentTools_assignment)|
 
 ## 2023 수강 과목 (전공&복수전공)
-파란글씨를 클릭할 시 해왔던 과제들을 볼 수 있습니다.
 
 |번호|과목명|
 |:---:|:---:|
