@@ -102,7 +102,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangmyeongwon)](https://github.com/hwangmyeongwon/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=hwangmyeongwon&show_icons=true">
 
 ## 프로젝트 이력
 
