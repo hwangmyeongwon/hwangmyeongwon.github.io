@@ -140,6 +140,7 @@
 
 ### 오픈소스
 <img src='./images/cover.PNG' width="300" />
+
 - 소개: 많은 사람들이 본인만의 포트폴리오 사이트를 가지게 하는 사이트입니다.
 - 최명근 학생과 공동으로 제작
 - (자세한 내용) https://github.com/hwangmyeongwon/protofolio
