@@ -19,6 +19,10 @@
 - 코멘토 직무프로그램(IT 8개 직무 기초체험으로 나에게 맞는 적성 찾고 기술역량 키우기)
 - 코멘토 직무프로그램(데이터 엔지니어의 모든 실무 유형과 취업전략)
 
+## 방학때 공부 했던 것
+- django로 웹사이트 만들기 https://github.com/hwangmyeongwon/do_it_django
+- swift로 app 만들기 https://github.com/hwangmyeongwon/do_it_iosApp
+
 ## 2018 수강 과목 (전공&복수전공)
 |번호|과목명|
 |:---:|:---:|
