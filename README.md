@@ -69,7 +69,7 @@
 
 |번호|과목명|
 |:---:|:---:|
-|1|컴퓨터 네트워크|
+|1|[컴퓨터 네트워크](https://github.com/hwangmyeongwon/ComputerNetwork_assignment)|
 |2|이산구조론|
 |3|데이터 사이언스 기초|
 |4|캡스톤 디자인|
