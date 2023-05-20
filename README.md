@@ -24,46 +24,46 @@
 - swift로 app 만들기 https://github.com/hwangmyeongwon/do_it_iosApp
 
 ## 2018 수강 과목 (전공&복수전공)
-|번호|과목명|
-|:---:|:---:|
-|1|기초프로그래밍|
-|2|컴퓨팅사고와 문제해결|
-|3|자바 프로그래밍1|
-|4|임베디드시스템|
-|5|C프로그래밍|
+|번호|과목명|학점|
+|:---:|:---:|:---:|
+|1|기초프로그래밍|B+|
+|2|컴퓨팅사고와 문제해결|**A+**|
+|3|자바 프로그래밍1|**A0**|
+|4|임베디드시스템|B+|
+|5|C프로그래밍|B+|
 
 ## 2021 수강 과목 (전공&복수전공)
 파란글씨를 클릭할 시 해왔던 과제들을 볼 수 있습니다.
 
-|번호|과목명|
-|:---:|:---:|
-|1|[c++ 프로그래밍](https://github.com/hwangmyeongwon/Cpp_assignment)|
-|2|파이썬 과학프로그래밍 기초|
-|3|[자바 프로그래밍2](https://github.com/hwangmyeongwon/java2_assignment)|
-|4|[자료구조](https://github.com/hwangmyeongwon/DataStructure_assignment)|
-|5|논리설계및 실험|
-|6|소프트웨어 개론|
-|7|[알고리즘](https://github.com/hwangmyeongwon/algorithm_assignment)|
-|8|VR/AR/게임제작기초|
-|9|[컴퓨터구조](https://github.com/hwangmyeongwon/ComputerArchitecture_assignment)|
-|10|선형대수|
-|11|[인공지능 수학](https://github.com/hwangmyeongwon/AI_Math_assignment)|
-|12|데이터베이스 기초|
+|번호|과목명|학점|
+|:---:|:---:|:---:|
+|1|[c++ 프로그래밍](https://github.com/hwangmyeongwon/Cpp_assignment)|B+|
+|2|파이썬 과학프로그래밍 기초|B+|
+|3|[자바 프로그래밍2](https://github.com/hwangmyeongwon/java2_assignment)|**A0**|
+|4|[자료구조](https://github.com/hwangmyeongwon/DataStructure_assignment)|B+|
+|5|논리설계및 실험|B+|
+|6|소프트웨어 개론|B0|
+|7|[알고리즘](https://github.com/hwangmyeongwon/algorithm_assignment)|B+|
+|8|VR/AR/게임제작기초|B+|
+|9|[컴퓨터구조](https://github.com/hwangmyeongwon/ComputerArchitecture_assignment)|B+|
+|10|선형대수|**A0**|
+|11|[인공지능 수학](https://github.com/hwangmyeongwon/AI_Math_assignment)|B0|
+|12|데이터베이스 기초|B0|
 
 
 ## 2022 수강 과목 (전공&복수전공)
 파란글씨를 클릭할 시 해왔던 과제들을 볼 수 있습니다.
 
-|번호|과목명|
-|:---:|:---:|
-|1|[웹프로그래밍](https://github.com/hwangmyeongwon/WebProgramming_assignment)|
-|2|[인공지능](https://github.com/hwangmyeongwon/AI_assignment)|
-|3|[컴퓨터 그래픽스](https://github.com/hwangmyeongwon/ComputerGrapics_assignment)|
-|4|[운영체제](https://github.com/hwangmyeongwon/OperatingSystem_assignment)|
-|5|[윈도우 프로그래밍](https://github.com/hwangmyeongwon/WindowProgramming_assignment)|
-|6|[데이터베이스 시스템](https://github.com/hwangmyeongwon/DatabaseSystem_assignment)|
-|7|[게임 프로그래밍](https://github.com/hwangmyeongwon/UnrealEngine_assignment)|
-|8|[오픈소스SW개발도구 활용](https://github.com/hwangmyeongwon/UseOfOpenSourceDevelopmentTools_assignment)|
+|번호|과목명|학점|
+|:---:|:---:|:---:|
+|1|[웹프로그래밍](https://github.com/hwangmyeongwon/WebProgramming_assignment)|**A0**|
+|2|[인공지능](https://github.com/hwangmyeongwon/AI_assignment)|**A0**|
+|3|[컴퓨터 그래픽스](https://github.com/hwangmyeongwon/ComputerGrapics_assignment)|**A+**|
+|4|[운영체제](https://github.com/hwangmyeongwon/OperatingSystem_assignment)|**A+**|
+|5|[윈도우 프로그래밍](https://github.com/hwangmyeongwon/WindowProgramming_assignment)|**A+**|
+|6|[데이터베이스 시스템](https://github.com/hwangmyeongwon/DatabaseSystem_assignment)|**A+**|
+|7|[게임 프로그래밍](https://github.com/hwangmyeongwon/UnrealEngine_assignment)|**A+**|
+|8|[오픈소스SW개발도구 활용](https://github.com/hwangmyeongwon/UseOfOpenSourceDevelopmentTools_assignment)|B+|
 
 ## 2023 수강 과목 (전공&복수전공)
 
@@ -72,8 +72,7 @@
 |1|컴퓨터 네트워크|
 |2|이산구조론|
 |3|데이터 사이언스 기초|
-|4|소프트웨어 세미나3|
-|5|소프트웨어 세미나4|
+|4|캡스톤 디자인|
 
 ## 사용해본 기술
 
