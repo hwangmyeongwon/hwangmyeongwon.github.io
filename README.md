@@ -38,7 +38,7 @@
 |번호|과목명|학점|
 |:---:|:---:|:---:|
 |1|[c++ 프로그래밍](https://github.com/hwangmyeongwon/Cpp_assignment)|B+|
-|2|파이썬 과학프로그래밍 기초|B+|
+|2|[파이썬 과학프로그래밍 기초](https://github.com/hwangmyeongwon/PythonBasic_assignment)|B+|
 |3|[자바 프로그래밍2](https://github.com/hwangmyeongwon/java2_assignment)|**A0**|
 |4|[자료구조](https://github.com/hwangmyeongwon/DataStructure_assignment)|B+|
 |5|논리설계및 실험|B+|
