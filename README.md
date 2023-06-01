@@ -116,6 +116,7 @@
 
 - 소개:보일러를 모방하여 회로와 자바를 이용해 만든 프로젝트
 - 내용:불이 들어오는 만큼 보일러는 틀었다는 것을 표현하고 보일러가 너무 높을경우 불을 깜박이며 화재 위험이 있다는 것을 알려줍니다.
+<br>
 
 ### 유니티
 <img src='./images/ZombieSurvival.png' width="300" />
@@ -123,6 +124,8 @@
 - 소개:좀비를 무찌르고 끝까지 살아남는 게임
 - 내용:에셋스토어에서 무료에셋과 c++을 이용해 만든 프로젝트입니다.
 - 기말 프로젝트 발표
+
+<br>
 
 ### 컴퓨터 그래픽스(Webgl)
 <img src='./images/LunchPad.png' width="300" />
@@ -133,6 +136,8 @@
 - 인기투표 1등
 - (자세한 내용) https://github.com/hwangmyeongwon/computer_grapic_project
 
+<br>
+
 ### 게임 프로그래밍(Unreal engine)
 <img src='./images/EscapeRoom.png' width="300"/>
 
@@ -142,9 +147,21 @@
 - 인기투표 3등
 - (자세한 내용) https://github.com/hwangmyeongwon/unreal_engine_project
 
+<br>
+
 ### 오픈소스
 <img src='./images/cover.PNG' width="300" />
 
 - 소개: 많은 사람들이 본인만의 포트폴리오 사이트를 가지게 하는 사이트입니다.
 - 최명근 학생과 공동으로 제작
 - (자세한 내용) https://github.com/hwangmyeongwon/protofolio
+
+<br>
+
+### AInterview
+<img src='./images/AInterview.gif' width="400" />
+
+- 소개: 가상면접관과 AI 분석으로 제공해주는 피드백으로 집에서도 면접연습을 할 수 있도록 도와주는 웹사이트
+- 캡스톤 프로젝트
+-  내용: 프론트엔드 역할을 맡았으며 인공지능 기술을 웹사이트 위에 올릴수 있도록 디자인 구상
+- (자세한 내용) https://github.com/hwangmyeongwon/2023_Capstone
