@@ -158,7 +158,7 @@
 
 <br>
 
-### AInterview
+### 캡스톤 디자인 (AInterview)
 <img src='./images/AInterview.gif' width="400" />
 
 - 캡스톤 프로젝트 (이다해,이승연,임수빈과 공동 제작)
