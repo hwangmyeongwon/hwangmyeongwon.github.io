@@ -130,7 +130,7 @@
 
 <br>
 
-### 컴퓨터 그래픽스(Webgl)
+### 컴퓨터 그래픽스
 <img src='./images/LunchPad.png' width="300" />
 
 - 소개:웹 페이지에 런치패드를 3d물체로 만들기
@@ -142,7 +142,7 @@
 
 <br>
 
-### 게임 프로그래밍(Unreal engine)
+### 게임 프로그래밍
 <img src='./images/EscapeRoom.png' width="300"/>
 
 - 소개: 무서운 이벤트를 보면서 해결책을 찾고 방을 탈출하는 게임
