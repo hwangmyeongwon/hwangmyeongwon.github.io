@@ -157,6 +157,7 @@
 - 사용 기술 : 언리얼엔진,c++
 - 인기투표 3등
 - (자세한 내용) https://github.com/hwangmyeongwon/unreal_engine_project
+- 시연 영상 : https://youtu.be/nocy1iiR83M
 
 <br>
 
