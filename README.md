@@ -81,7 +81,7 @@
 |:---:|:---:|:---:|
 |1|[컴퓨터 네트워크](https://github.com/hwangmyeongwon/ComputerNetwork_assignment)||
 |2|이산구조론||
-|3|[데이터 사이언스 기초](https://github.com/hwangmyeongwon/Rprogramming_assignment)|A+|
+|3|[데이터 사이언스 기초](https://github.com/hwangmyeongwon/Rprogramming_assignment)|**A+**|
 |4|[캡스톤 디자인](https://github.com/hwangmyeongwon/2023_Capstone)||
 
 ## 사용해본 기술
