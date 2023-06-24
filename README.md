@@ -9,6 +9,9 @@
 ```
 항상 주어진 일에 최선을 다하는 것입니다.
 ```
+## 현재하는 일
+- 현장실습(유진로봇) 2023.7.1~2023.12.31
+<br>
 
 ## 학력
 - 한림대학교 (주)콘텐츠it전공 , (복)빅데이터전공 (2018~현재)
@@ -23,6 +26,7 @@
 ## 대학교 재학중 했던 활동
 - 코멘토 직무프로그램(IT 8개 직무 기초체험으로 나에게 맞는 적성 찾고 기술역량 키우기) (5주간 진행)
 - 코멘토 직무프로그램(데이터 엔지니어의 모든 실무 유형과 취업전략) (5주간 진행)
+
 
 ## 방학때 공부 했던 것
 - django로 웹사이트 만들기 https://github.com/hwangmyeongwon/do_it_django
@@ -73,12 +77,12 @@
 ## 2023 수강 과목 (전공&복수전공)
 파란글씨를 클릭할 시 해왔던 과제들을 볼 수 있습니다.
 
-|번호|과목명|
-|:---:|:---:|
-|1|[컴퓨터 네트워크](https://github.com/hwangmyeongwon/ComputerNetwork_assignment)|
-|2|이산구조론|
-|3|[데이터 사이언스 기초](https://github.com/hwangmyeongwon/Rprogramming_assignment)|
-|4|[캡스톤 디자인](https://github.com/hwangmyeongwon/2023_Capstone)|
+|번호|과목명|학점|
+|:---:|:---:|:---:|
+|1|[컴퓨터 네트워크](https://github.com/hwangmyeongwon/ComputerNetwork_assignment)||
+|2|이산구조론||
+|3|[데이터 사이언스 기초](https://github.com/hwangmyeongwon/Rprogramming_assignment)|A+|
+|4|[캡스톤 디자인](https://github.com/hwangmyeongwon/2023_Capstone)||
 
 ## 사용해본 기술
 
