@@ -79,10 +79,11 @@
 
 |번호|과목명|학점|
 |:---:|:---:|:---:|
-|1|[컴퓨터 네트워크](https://github.com/hwangmyeongwon/ComputerNetwork_assignment)||
-|2|이산구조론||
+|1|[컴퓨터 네트워크](https://github.com/hwangmyeongwon/ComputerNetwork_assignment)|**A+**|
+|2|이산구조론|**A+**|
 |3|[데이터 사이언스 기초](https://github.com/hwangmyeongwon/Rprogramming_assignment)|**A+**|
-|4|[캡스톤 디자인](https://github.com/hwangmyeongwon/2023_Capstone)||
+|4|[캡스톤 디자인](https://github.com/hwangmyeongwon/2023_Capstone)|**A+**|
+|5|소프트웨어 특강1|**A0**|
 
 ## 사용해본 기술
 
